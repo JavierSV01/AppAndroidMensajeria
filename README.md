@@ -1,3 +1,7 @@
+Para obtener una visión general del proyecto, consulte el siguiente archivo PDF:
+
+[Resumen del Proyecto](WeConnect%20-%20Presentacion%20Resumen.pdf)
+
 # WeConnect
 
 WeConnect nace como un proyecto final del grado en desarrollo de apliaciones multiplataforma.
@@ -27,7 +31,7 @@ podran intercarbiar mensajes, imagenes y pdf para poner en comun todas sus ideas
 
 1. **Clonar el repositorio:**
     ```sh
-    git clone https://github.com/usuario/nombre-del-repositorio.git
+    git clone https://github.com/JavierSV01/AppAndroidMensajeria.git
     ```
 2. **Abrir el proyecto en Android Studio:**
     - Iniciar Android Studio
@@ -45,3 +49,11 @@ podran intercarbiar mensajes, imagenes y pdf para poner en comun todas sus ideas
 2. **Ejecutar la aplicación:**
     - Conectar un dispositivo Android o configurar un emulador en Android Studio.
     - Hacer clic en el botón "Run" (el icono de play) en Android Studio para compilar y ejecutar la aplicación.
+    - 
+## Contacto
+
+Si tienes alguna pregunta, sugerencia o deseas ponerte en contacto conmigo, puedes hacerlo a través de los siguientes medios:
+
+- **Email:** javiersabio01@gmail.com
+- **LinkedIn:** [Fco Javier Sabio Viñolo](https://www.linkedin.com/in/javiersabio01/)
+- **Instagram:** [javiersabio01](https://www.instagram.com/javiersabio01/)
